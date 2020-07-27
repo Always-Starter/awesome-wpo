@@ -8,8 +8,6 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Categories
 
-:memo: [Awesome WPO / Articles](#articles)
-
 :newspaper: [Awesome WPO / Blogs](#blogs)
 
 :books: [Awesome WPO / Books](#books)
